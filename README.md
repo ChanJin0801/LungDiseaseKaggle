@@ -28,7 +28,7 @@ cd WebPage
 python server.py
 ```
 
-You can upload images from the Kaggle dataset or personal chest X-ray images.
+You can upload the Kaggle dataset images or personal chest X-ray images.
 
 <img width="1407" alt="Screen Shot 2019-12-09 at 3 43 35 PM" src="https://user-images.githubusercontent.com/40285946/70414376-45b68a80-1a9d-11ea-9c64-82b26b7fe8e9.png">
 <img width="1408" alt="Screen Shot 2019-12-09 at 3 43 14 PM" src="https://user-images.githubusercontent.com/40285946/70414368-42230380-1a9d-11ea-996f-6d7755e25a21.png">
