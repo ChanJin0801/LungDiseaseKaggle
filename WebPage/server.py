@@ -6,6 +6,7 @@ from keras.preprocessing import image
 from keras.applications.vgg16 import preprocess_input
 import numpy as np
 import os
+import tensorflow.compat.v1 as tf
 
 app = Flask(__name__)
 app.config["IMAGE_UPLOADS"] = '/Users/parkchanjin/PycharmProjects/ml-work/LungDiseaseKaggle/WebPage/image'
@@ -34,9 +35,7 @@ def allowed_image_filesize(filesize):
     else:
         return False
 
-def result(self, result=str()):
-   #self.mystr = result
-   result = " "
+result = tf.global_variables_initializer()
 
 @app.route("/", methods=['GET', 'POST'])
 def upload_image():
