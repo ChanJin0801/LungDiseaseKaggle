@@ -4,21 +4,22 @@ This project is predicting Pneumonia(lung disease) or normal by chest X-ray imag
 
 Deep learning is used for training model. 
 
-You can run the flask web page in the "WebPage" folder.
+You can upload the Kaggle dataset images or personal chest X-ray images.
 
 
-## how to download sample dataset(sample chest X-ray images)
+## how to download dataset(sample chest X-ray images)
 
 
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
-### Pneumonia image
+### Sample chest X-ray images(pneumonia, normal)
 ![person1946_bacteria_4874](https://user-images.githubusercontent.com/40285946/70415737-b14e2700-1aa0-11ea-8ef7-976aad763e37.jpeg)
-<img width="1408" alt="Screen Shot 2019-12-09 at 3 43 14 PM" src="https://user-images.githubusercontent.com/40285946/70414368-42230380-1a9d-11ea-996f-6d7755e25a21.png">
-
-### Normal image
 ![NORMAL2-IM-1427-0001](https://user-images.githubusercontent.com/40285946/70415769-c460f700-1aa0-11ea-97fe-c6b50a0b7e41.jpeg)
+
+
+### Website screenshots
 <img width="1407" alt="Screen Shot 2019-12-09 at 3 43 35 PM" src="https://user-images.githubusercontent.com/40285946/70414376-45b68a80-1a9d-11ea-9c64-82b26b7fe8e9.png">
+<img width="1408" alt="Screen Shot 2019-12-09 at 3 43 14 PM" src="https://user-images.githubusercontent.com/40285946/70414368-42230380-1a9d-11ea-996f-6d7755e25a21.png">
 
 
 ### run by flask web server
@@ -30,7 +31,10 @@ cd WebPage
 python server.py
 ```
 
-You can upload the Kaggle dataset images or personal chest X-ray images.
+
+### Copyright & Reference
+https://www.youtube.com/watch?v=2vFtc_a7vjU&list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdkLWy&index=4
+
 
 
 <img width="705" alt="Screen Shot 2019-12-09 at 4 05 52 PM" src="https://user-images.githubusercontent.com/40285946/70414580-e016ce00-1a9d-11ea-966e-daf1906e2e9b.png">
