@@ -36,7 +36,3 @@ python server.py
 https://www.youtube.com/watch?v=2vFtc_a7vjU&list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdkLWy&index=4
 
 
-
-<img width="705" alt="Screen Shot 2019-12-09 at 4 05 52 PM" src="https://user-images.githubusercontent.com/40285946/70414580-e016ce00-1a9d-11ea-966e-daf1906e2e9b.png">
-<img width="589" alt="Screen Shot 2019-12-09 at 4 06 08 PM" src="https://user-images.githubusercontent.com/40285946/70414590-e5741880-1a9d-11ea-88dc-4034a972ae5f.png">
-
